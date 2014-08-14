@@ -1,0 +1,4 @@
+C:\Spotlight\Spotlight\Jayakumar.Limerick.Tests\bin\Debug\Jayakumar.Limerick.Tests.dll
+C:\Spotlight\Spotlight\Jayakumar.Limerick.Tests\bin\Debug\Jayakumar.Limerick.Tests.pdb
+C:\Spotlight\Spotlight\Jayakumar.Limerick.Tests\obj\Debug\Jayakumar.Limerick.Tests.dll
+C:\Spotlight\Spotlight\Jayakumar.Limerick.Tests\obj\Debug\Jayakumar.Limerick.Tests.pdb

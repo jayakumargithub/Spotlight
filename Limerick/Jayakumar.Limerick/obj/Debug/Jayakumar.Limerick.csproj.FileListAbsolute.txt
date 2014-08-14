@@ -1,0 +1,5 @@
+C:\Spotlight\Spotlight\Jayakumar.Limerick\bin\Debug\reverser.exe.config
+C:\Spotlight\Spotlight\Jayakumar.Limerick\bin\Debug\reverser.exe
+C:\Spotlight\Spotlight\Jayakumar.Limerick\bin\Debug\reverser.pdb
+C:\Spotlight\Spotlight\Jayakumar.Limerick\obj\Debug\reverser.exe
+C:\Spotlight\Spotlight\Jayakumar.Limerick\obj\Debug\reverser.pdb
